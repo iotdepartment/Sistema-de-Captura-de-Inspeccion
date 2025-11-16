@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sistema de Captura de Inspeccion
+</name>
+</assembly>
+<members>
+<member name="T:Sistema_de_Captura_de_Inspeccion.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Sistema_de_Captura_de_Inspeccion.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Sistema_de_Captura_de_Inspeccion.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Sistema_de_Captura_de_Inspeccion.My.Resources.Resources.A_Disney_style_anima_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistema_de_Captura_de_Inspeccion.My.Resources.Resources.cambia_la_oz_por_un_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistema_de_Captura_de_Inspeccion.My.Resources.Resources.cambia_la_oz_por_un__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistema_de_Captura_de_Inspeccion.My.Resources.Resources.Create_an_image_simi_waifu2x_art_noise2_scale_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistema_de_Captura_de_Inspeccion.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistema_de_Captura_de_Inspeccion.My.Resources.Resources.download__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistema_de_Captura_de_Inspeccion.My.Resources.Resources.Manguerin_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistema_de_Captura_de_Inspeccion.My.Resources.Resources.Screenshot_2025_10_13_112510_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistema_de_Captura_de_Inspeccion.My.Resources.Resources.toyoda_gosei_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

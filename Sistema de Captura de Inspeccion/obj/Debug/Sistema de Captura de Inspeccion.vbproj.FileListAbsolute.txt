@@ -1,0 +1,52 @@
+C:\Users\Eramirez3\AppData\Local\Temporary Projects\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.exe.config
+C:\Users\Eramirez3\AppData\Local\Temporary Projects\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.exe
+C:\Users\Eramirez3\AppData\Local\Temporary Projects\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.pdb
+C:\Users\Eramirez3\AppData\Local\Temporary Projects\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.xml
+C:\Users\Eramirez3\AppData\Local\Temporary Projects\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.vbprojAssemblyReference.cache
+C:\Users\Eramirez3\AppData\Local\Temporary Projects\Sistema de Captura de Inspeccion\obj\Debug\Sistema_de_Captura_de_Inspeccion.Form1.resources
+C:\Users\Eramirez3\AppData\Local\Temporary Projects\Sistema de Captura de Inspeccion\obj\Debug\Sistema_de_Captura_de_Inspeccion.Resources.resources
+C:\Users\Eramirez3\AppData\Local\Temporary Projects\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.vbproj.GenerateResource.cache
+C:\Users\Eramirez3\AppData\Local\Temporary Projects\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.vbproj.CoreCompileInputs.cache
+C:\Users\Eramirez3\AppData\Local\Temporary Projects\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.exe
+C:\Users\Eramirez3\AppData\Local\Temporary Projects\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.xml
+C:\Users\Eramirez3\AppData\Local\Temporary Projects\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.pdb
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0027 Extraccion de Datos Cobot\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.exe.config
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0027 Extraccion de Datos Cobot\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.exe
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0027 Extraccion de Datos Cobot\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.pdb
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0027 Extraccion de Datos Cobot\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.xml
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0027 Extraccion de Datos Cobot\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.vbprojAssemblyReference.cache
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0027 Extraccion de Datos Cobot\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema_de_Captura_de_Inspeccion.Form1.resources
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0027 Extraccion de Datos Cobot\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema_de_Captura_de_Inspeccion.Resources.resources
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0027 Extraccion de Datos Cobot\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.vbproj.GenerateResource.cache
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0027 Extraccion de Datos Cobot\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.vbproj.CoreCompileInputs.cache
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0027 Extraccion de Datos Cobot\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.exe
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0027 Extraccion de Datos Cobot\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.xml
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0027 Extraccion de Datos Cobot\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.pdb
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0022 Base de Datos Inspection\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.exe.config
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0022 Base de Datos Inspection\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.exe
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0022 Base de Datos Inspection\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.pdb
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0022 Base de Datos Inspection\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.xml
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0022 Base de Datos Inspection\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.vbprojAssemblyReference.cache
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0022 Base de Datos Inspection\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema_de_Captura_de_Inspeccion.Form1.resources
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0022 Base de Datos Inspection\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema_de_Captura_de_Inspeccion.Resources.resources
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0022 Base de Datos Inspection\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.vbproj.GenerateResource.cache
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0022 Base de Datos Inspection\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.vbproj.CoreCompileInputs.cache
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0022 Base de Datos Inspection\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.exe
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0022 Base de Datos Inspection\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.xml
+\\tggroup\rmxfile\Shared\Operation\Public\Engineering\IoT Projects\0022 Base de Datos Inspection\Project\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.pdb
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.exe.config
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.exe
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.pdb
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\bin\Debug\Sistema de Captura de Inspeccion.xml
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema_de_Captura_de_Inspeccion.Form1.resources
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema_de_Captura_de_Inspeccion.Resources.resources
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.vbproj.GenerateResource.cache
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.vbproj.CoreCompileInputs.cache
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.exe
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.xml
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.pdb
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema_de_Captura_de_Inspeccion.FormFuturista.resources
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.vbproj.AssemblyReference.cache
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema de Captura de Inspeccion.exe.config
+C:\Users\Eramirez3\Desktop\Sistema de Captura de Inspeccion\Sistema de Captura de Inspeccion\obj\Debug\Sistema .AB7B3493.Up2Date
